@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Denver-Aurora-Centennial Metro Area, CO, US",
-  "export_job_id": "581d59eb-93fb-4d7b-8cc6-c0beed6ffbec",
+  "export_job_id": "4dedfff4-2dec-4334-a0f6-14c077c7b6a2",
   "github_org": "Beamstation-Datasets",
   "id_short": 248720,
   "location_name": "Denver-Aurora-Centennial, CO",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-denver-aurora-centennial-metro-area-co-us-sample-248720",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/248720/beamstation_248720_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_pct": 5.88,
+  "sample_pct": 8.33,
   "sample_records": 1,
-  "sample_sha256": "9418a4bc39fb182bacb8f04e199fa20376fee918cd0b8d6821238bfd90863f84",
-  "sample_size_bytes": 19463,
-  "total_records": 17,
-  "updated_at": "2026-04-15T10:43:57.231218+00:00"
+  "sample_sha256": "e69f33e26c3ecb2b3b43f3bed49289721ae752a65d5f0364b090676d2d433f89",
+  "sample_size_bytes": 19686,
+  "total_records": 12,
+  "updated_at": "2026-04-22T18:40:18.689348+00:00"
 }
