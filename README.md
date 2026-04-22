@@ -9,9 +9,9 @@
 | Dataset ID | `248720` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-15T10:43:57.231218+00:00 |
+| Full dataset size | 12 records |
+| Free sample size | 1 records (8.33%) |
+| Last export | 2026-04-22T18:40:18.689348+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-denver-aurora-centennial-metro-area-co-us-sample-248720/releases/download/sample-latest/beamstation_248720_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
