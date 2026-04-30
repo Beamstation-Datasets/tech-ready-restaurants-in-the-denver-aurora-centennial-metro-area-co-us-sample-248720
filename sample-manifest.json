@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4dedfff4-2dec-4334-a0f6-14c077c7b6a2",
+  "export_job_id": "bc882782-7938-407c-bf51-c4a7acc0aef3",
   "id_short": 248720,
-  "published_at": "2026-04-22T19:26:26Z",
+  "published_at": "2026-04-30T07:10:31Z",
   "repo_name": "tech-ready-restaurants-in-the-denver-aurora-centennial-metro-area-co-us-sample-248720",
   "sample_asset_name": "beamstation_248720_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/248720/beamstation_248720_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "e69f33e26c3ecb2b3b43f3bed49289721ae752a65d5f0364b090676d2d433f89",
-  "sample_size_bytes": 19686,
-  "total_records": 12
+  "sample_records": 11,
+  "sample_sha256": "b0d19515ff535b8003fcb6bf6f4f5bcd9acccb754bfedf1cd27842324ffe4070",
+  "sample_size_bytes": 56312,
+  "total_records": 110
 }
