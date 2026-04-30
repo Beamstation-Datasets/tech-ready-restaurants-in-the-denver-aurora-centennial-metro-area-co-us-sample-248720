@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Denver-Aurora-Centennial Metro Area, CO, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `248720` |
 | Location | Denver-Aurora-Centennial, CO |
 | Category | Restaurants |
-| Full dataset size | 12 records |
-| Free sample size | 1 records (8.33%) |
-| Last export | 2026-04-22T18:40:18.689348+00:00 |
+| Full dataset size | 110 records |
+| Free sample size | 11 records (10.0%) |
+| Last export | 2026-04-29T17:58:21.080175+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-denver-aurora-centennial-metro-area-co-us-sample-248720/releases/download/sample-latest/beamstation_248720_restaurants-us-denverauroracentennialco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
